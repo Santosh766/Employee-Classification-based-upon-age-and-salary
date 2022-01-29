@@ -1,4 +1,4 @@
-# Employee's-salary-Classification-based-age
+# Employee's-Income-Classification-based-age
 This is a project of classification of employee on the basis of their age and income. Objective of this project is to classify different groups of employee based upon the income and age group. Here, we found three groups for the given dataset (income.csv), after predicting for set ([['40','4500']]) we found it belongs to the cluster 0 such that red community. The project is followed by following steps:
 1. Importing some basic libraries for solving classification problem (KMeans Classification)
 2. Importing the csv file into pandas dataframe
